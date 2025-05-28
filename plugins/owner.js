@@ -23,8 +23,8 @@ let dec = `*👋 Hello ${pushname}*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
-*⚡Owner name -: your name*
-*⚡Number* -: your number
+*⚡Owner name -: Dark-DEv*
+*⚡Number* -: Wa.me/+22603582906
 
  ⚡️◦ https://chat.whatsapp.com/IbqroBdjYR45Ep0wPNzJoQ
 
@@ -56,9 +56,9 @@ let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+👨‍💻◦ https://chat.whatsapp.com/IbqroBdjYR45Ep0wPNzJoQ
 
-> *Powered by yourname*
+> *Powered by Dark-DEv*
 `;
 await conn.sendMessage(from,{image:{url: config.MENU_IMG},caption:dec},{quoted:mek});
 
