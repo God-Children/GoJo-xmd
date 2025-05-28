@@ -4,11 +4,7 @@
  Copyright (C) 2025.
  Licensed under the  GPL-3.0 License;
  You may not sell this script.
- It is supplied in the hope that it may be useful.
- * @project_name : Free Bot script
- * @author : Malvin King <https://github.com/kingmalvn>
- * @description : A Multi-functional whatsapp bot script.
- * @version 3.0.0
+Dark-DEv like that
  **/
 
 const { cmd } = require('../command');
@@ -65,14 +61,14 @@ cmd({
         const progressBar = "⭐".repeat(progressPercent / 10) + "⚪".repeat(10 - progressPercent / 10);
 
         // URL of the image for the rank
-        const levelImageURL = "https://files.catbox.moe/yfeca5.jpg"; // Replace with your desired image URL
+        const levelImageURL = "https://i.imgur.com/A0T9qCB.png"; // Replace with your desired image URL
         
         // Send rank information in text and image
         const caption = `📊 *Rank Information*\n\n👤 *User*: @${
             target.split("@")[0]
         }\n🔝 *Level*: ${level}\n🔄 *Progression*: ${progressPercent}%\n${progressBar}\n📩 *Messages Sent*: ${
             userData.messages
-        }\n✨ *XP*: ${userData.experience}\n\n> 🤖 POWERED BY MALVIN 🤖`;
+        }\n✨ *XP*: ${userData.experience}\n\n> 🤖 POWERED BY Dark-DEv 🤖`;
 
         // Send the image and caption together
         await conn.sendMessage(
