@@ -1,6 +1,6 @@
-/*created by King Malvin 🕵
-contact dev1 263780934873 ♻️
-contact dev2 https://t.me/malvinking2 ♻️
+/*created by Dark-DEV 🕵
+Dinguerie GoJo-xmd
+Dev_num: 22603582906
 © just give credit will you ⚠
 */
 
@@ -41,10 +41,10 @@ let madeMenu = `*╭─────────────────❒⁠⁠
      *${pushname}*
 
 ┏━━━━━━━━━━━━━━━━━━━━
-   *Welcome to Botname 2nd Menu*
+   *Welcome to GoJo-xmd 2nd Menu*
 ┗━━━━━━━━━━━━━━━━━━━━
 
-*Created by your name👨🏻‍💻*
+*Created by your Dark-DEv👨🏻‍💻*
 
 
 *╭───────────────❒⁠⁠⁠⁠*
@@ -94,7 +94,7 @@ ${menu.search}
 *╰──────────●●►*
 
 
-> *Powered by botname*
+> *Powered by GoJo-xmd*
 
 `;
 
