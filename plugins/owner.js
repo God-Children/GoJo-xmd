@@ -19,16 +19,16 @@ try{
 
 let dec = `*👋 Hello ${pushname}*
 
-*👨‍💻Your Botname 👨‍💻*
+*👨‍💻GoJo-xmd 👨‍💻*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
 *⚡Owner name -: your name*
 *⚡Number* -: your number
 
- ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+ ⚡️◦ https://chat.whatsapp.com/IbqroBdjYR45Ep0wPNzJoQ
 
-> *Powered by your name*
+> *Powered by Dark-DEv*
 `;
 await conn.sendMessage(from,{image:{url:config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -84,7 +84,7 @@ let status = `┌─────────────────────
 ├ 🧬 *Version:-* 1.0.0
 └───────────────────────
 
-> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 Your Botname*
+> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 GoJo-xmd*
 `;
 return reply(`${status}`)
   
