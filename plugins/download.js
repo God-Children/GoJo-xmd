@@ -174,11 +174,11 @@ cmd({
       react: { text: "⬆️", key: m.key }
     });
 
-    const caption = `╭════ 〔 *Your Botname* 〕════❐\n`
+    const caption = `╭════ 〔 *Your GoJo-xmd* 〕════❐\n`
       + `┃▢ *ғɪʟᴇ ɴᴀᴍᴇ:* ${file_name}\n`
       + `┃▢ *ғɪʟᴇ ᴛʏᴘᴇ:* ${mime_type}\n`
       + `╰═════════════════❐\n\n`
-      + `> *Powered by Your Botname🎐*`;
+      + `> *Powered by GoJo-xmd🎐*`;
 
     await conn.sendMessage(from, {
       document: { url: dl_link },
