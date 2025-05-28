@@ -5,7 +5,7 @@ const { cmd } = require('../command');
 cmd({
     pattern: "owner",
     react: "👑", // Reaction emoji when the command is triggered
-    alias: ["king"],
+    alias: ["Dark-Man"],
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+263xxxxxx'; // Replace this with the actual owner number
+        const ownerNumber = '+22603582906'; // Replace this with the actual owner number
         const ownerName = 'Dark-DEv'; // Replace this with the owner's name
         const organization = 'Dark-DEv'; // Optional: replace with the owner's organization
 
