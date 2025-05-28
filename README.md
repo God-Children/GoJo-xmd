@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Présentation animée
+## 1. Bot Name
 
 <p align="center">
   <a href="https://git.io/typing-svg">
