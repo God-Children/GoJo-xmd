@@ -90,14 +90,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "22603582906"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "INCONNU-XD"
+      "value": "GoJo-xmd"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY INCONNU BOY*"
+      "value": "*© POWERED BY Dark-DEv*"
     },
 
       "DELETE_LINKS": {
